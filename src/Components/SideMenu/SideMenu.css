@@ -1,0 +1,7 @@
+.side-menu{
+    background-color:aquamarine;
+    border-radius: 15px;
+    height:30%;
+    position: sticky;
+    top: 0px;
+}

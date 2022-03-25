@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import Shop from './Shop/Shop';
+import Shop from './Components/Shop/Shop';
 
 function App() {
   const [products, setProducts] = useState([]);
@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div className="App container">
-      <h1 className='text-primary my-5'>Smart Shop</h1>
+      <h1 className='text-primary my-5'>Samsung Smart Shop</h1>
       <Shop products= {products} ></Shop>
     </div>
   );

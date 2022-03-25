@@ -1,6 +1,8 @@
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 2fr;
+
+    position: relative;
 }
 .cart-container{
     display: grid;
@@ -8,7 +10,6 @@
     gap: 20px;
     
 }
-.side-menu{
-    border: 1px solid;
-    margin-left: 20px;
+.side-menu-container{
+    margin-left: 20px;  
 }
