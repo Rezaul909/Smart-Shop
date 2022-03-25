@@ -1,0 +1,74 @@
+[
+    {
+      "id": "623de95ea87dde9dfd3a0436",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/03/Samsung-Galaxy-A53-5G.jpg",
+      "price": 392,
+      "name": "Holloway"
+    },
+    {
+      "id": "623de95e56e1b64f8cc0421e",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/03/Samsung-Galaxy-A33-5G.jpg",
+      "price": 248,
+      "name": "Mcgowan "
+    },
+    {
+      "id": "623de95e1bdbce9b4606847d",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/03/Samsung-Galaxy-A03.jpg",
+      "price": 310,
+      "name": "Duncan "
+    },
+    {
+      "id": "623de95e799daef68232fedb",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/02/Samsung-Galaxy-S22-Ultra-image.jpg",
+      "price": 347,
+      "name": "Mccarty "
+    },
+    {
+      "id": "623de95e84195fa94a2ba791",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/02/Samsung-Galaxy-S22-Plus-image.jpg",
+      "price": 335,
+      "name": "Bernice "
+    },
+    {
+      "id": "623de95ec5d639ce9d84e891",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/02/Samsung-Galaxy-A03-Core-image.jpg",
+      "price": 328,
+      "name": "Rachael "
+    },
+    {
+      "id": "623de95e36e4c834320fa40b",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/01/Samsung-Galaxy-S21-FE-5G-image1.jpg",
+      "price": 386,
+      "name": "Harrell "
+    },
+    {
+      "id": "623de95e84df670421acda0f",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/10/Samsung-Galaxy-A03s-image.jpg",
+      "price": 347,
+      "name": "Boyle "
+    },
+    {
+      "id": "623de95ec4bc60117aaa2730",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/09/Samsung-Galaxy-A52s-5G-image.jpg",
+      "price": 246,
+      "name": "Madeleine "
+    },
+    {
+      "id": "623de95e6e894cc386b1f367",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/09/Samsung-Galaxy-F22-image.jpg",
+      "price": 243,
+      "name": "Angelina "
+    },
+    {
+      "id": "623de95e7dbe8b38dfc56e49",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/09/Samsung-Galaxy-Z-Fold3-5G-image.jpg",
+      "price": 319,
+      "name": "Ewing "
+    },
+    {
+      "id": "623de95e38f3a4c568e64576",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/09/Samsung-Galaxy-Z-Flip3-5G-image.jpg",
+      "price": 392,
+      "name": "Jaclyn "
+    }
+  ]

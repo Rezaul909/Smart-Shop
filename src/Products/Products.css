@@ -1,0 +1,9 @@
+.product-container{
+    border: 2px solid rgb(137, 120, 216);
+    padding:10px;
+    border-radius: 10px;
+}
+
+.product-container img{
+    width:100%;
+}
