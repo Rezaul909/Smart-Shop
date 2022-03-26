@@ -19,7 +19,6 @@ const Shop = (props) => {
         // }    
     }  
 
-    // console.log(carts);
     return (
         <div className='shop-container'>
             <div className="cart-container">

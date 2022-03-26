@@ -1,13 +1,8 @@
 import './CartInfo.css';
 
 const CartInfo = ({cart}) => {
-    // console.log([cart]);
-    const arr = [cart];
-    const {name, img, price, id} = cart;
 
-    if(arr.length > 4){
-        
-    }
+    const {name, img, price, id} = cart;
 
     return (
         <div className='cart-info rounded-pill'>
