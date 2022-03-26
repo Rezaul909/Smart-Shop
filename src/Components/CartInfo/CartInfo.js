@@ -2,7 +2,7 @@ import './CartInfo.css';
 
 const CartInfo = ({cart}) => {
 
-    const {name, img, price, id} = cart;
+    const {name, img, price} = cart;
 
     return (
         <div className='cart-info rounded-pill'>

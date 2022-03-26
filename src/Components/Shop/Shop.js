@@ -6,18 +6,18 @@ const Shop = (props) => {
     const {products} = props;
 
     const [carts, setCarts] = useState([]);
+    // const [clear, setClear] = useState([]);
 
     const handleData = (product) =>{
         const newCart = [...carts, product];
         if(newCart.length < 5){
             setCarts(newCart);   
-        }
-        // const isExist = newCart.find((cart) => cart.id === product.id);
-        // console.log(isExist);
-        // if(isExist){
-            
-        // }    
-    }  
+        }  
+    } 
+    
+    const clearData = () =>{
+        setCarts([]);
+    }
 
     return (
         <div className='shop-container'>
@@ -31,7 +31,7 @@ const Shop = (props) => {
                 }
             </div>
             <div className="side-menu-container">
-                <SideMenu carts={carts} ></SideMenu>
+                <SideMenu clearData={clearData} carts={carts} ></SideMenu>
             </div>
         </div>
     );
