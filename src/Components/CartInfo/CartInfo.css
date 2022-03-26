@@ -1,0 +1,12 @@
+.cart-info{
+    background-color:aliceblue;
+    
+}
+.single-cart-info{
+    margin-bottom: 15px;
+    display:flex;
+    justify-content: space-evenly;
+}
+.single-cart-info img{
+    width:10%;
+}

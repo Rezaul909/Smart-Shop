@@ -1,13 +1,21 @@
-import React from 'react';
 import './CartInfo.css';
 
-const CartInfo = (props) => {
-    const {name, price} = props;
-    console.log(props);
+const CartInfo = ({cart}) => {
+    // console.log([cart]);
+    const arr = [cart];
+    const {name, img, price, id} = cart;
+
+    if(arr.length > 4){
+        
+    }
+
     return (
-        <div>
-            <h2>{name}</h2>
-            <p>{price}</p>
+        <div className='cart-info rounded-pill'>
+            <div className='single-cart-info'>
+                <img src={img} alt="" />
+                <h5>{name}</h5>
+                <p>${price}</p>
+            </div>
         </div>
     );
 };

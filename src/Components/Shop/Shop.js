@@ -8,12 +8,18 @@ const Shop = (props) => {
     const [carts, setCarts] = useState([]);
 
     const handleData = (product) =>{
-        const newCart = [...carts, product]
-        // console.log(newCart);
-        setCarts(newCart);
-        
+        const newCart = [...carts, product];
+        if(newCart.length < 5){
+            setCarts(newCart);   
+        }
+        // const isExist = newCart.find((cart) => cart.id === product.id);
+        // console.log(isExist);
+        // if(isExist){
+            
+        // }    
     }  
-    // console.log(handleData);
+
+    // console.log(carts);
     return (
         <div className='shop-container'>
             <div className="cart-container">
