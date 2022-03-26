@@ -1,6 +1,8 @@
 # Samsung Smart Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Privet repository link: [Click here to see privet repo.](https://github.com/Programming-Hero-Web-Course4/lucky-one-Rezaul909).
+
+## netlify live link: [Click here to see live site.](https://capable-tiramisu-f091a6.netlify.app/).
 
 ## Available Scripts
 
